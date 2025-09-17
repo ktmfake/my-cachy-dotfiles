@@ -36,7 +36,7 @@ DO NOT COPY THESE DOTFILES. THEY ARE A WORK IN PROGRESS AND ARE VERY UNSTABLE
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠘⠀⠀⠀⣻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⢧⡀⠀⠀⠀⠀⠀⠀
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⢿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠈⣿⡆⠀⠀⠀⠀⠀
 
-Hyprland + Gnome build
+KDE VERSION
 
 ## Dependencies
 
@@ -44,12 +44,4 @@ Hyprland + Gnome build
 
 [ripgrep](https://github.com/BurntSushi/ripgrep) for telescope.nvim
 
-### Kitty
 
-[fish](https://github.com/fish-shell/fish-shell) as bash for kitty terminal
-
-### Hyprland
-
-[rofi](https://github.com/davatorium/rofi) as app launcher
-
-[swaybg](https://github.com/swaywm/swaybg) as background manager
