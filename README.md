@@ -1,6 +1,6 @@
 # MY DOTFILES
 
-DO NOT COPY THESE DOTFILES. THEY ARE A WORK IN PROGRESS AND ARE VERY UNSTABLE
+
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣦⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣾⢿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -43,5 +43,33 @@ KDE VERSION
 ### Nvim
 
 [ripgrep](https://github.com/BurntSushi/ripgrep) for telescope.nvim
+
+## NEOVIM
+
+### Important Keybinds
+
+#### Lsp Config
+
+<K> -> Hover 
+
+<gd> -> Open Definition Page
+
+<leader><ca> -> Code Actions
+
+#### Neo-Tree
+
+<leader><n> -> Open Neo-Tree
+
+#### None-ls
+
+<leader><gf> -> Format Text
+
+#### Telescope
+
+<Ctrl><p> -> Open Telescope
+
+<leader><fg> -> Live Grep
+
+
 
 
